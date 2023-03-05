@@ -1,8 +1,8 @@
 ### Hi Developers 👋
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmoldeep-singh-b582b9178/)](https://www.linkedin.com/in/anmoldeep-singh-b582b9178/)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/20387003/anmoldeep-singh)
+[![Linkedin Badge](https://img.shields.io/badge/-Anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmoldeep-singh-b582b9178/)](https://www.linkedin.com/in/anmoldeep-singh-b582b9178/)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Anmol-yellow)](https://stackoverflow.com/users/20387003/anmoldeep-singh)
 
 I'm
 Software Development Engineer 
